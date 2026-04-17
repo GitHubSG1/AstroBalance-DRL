@@ -1,9 +1,3 @@
-# AstroBalance-DRL-Satellite
-Digital Twin of a Satellite Reaction Wheel system using Deep Reinforcement Learning (PPO) for high-precision orientation
-
-# AstroBalance-DRL-Satellite
-Digital Twin of a Satellite Reaction Wheel system using Deep Reinforcement Learning (PPO) for high-precision orientation
-
 # Astro-Balance: Using DRL to keep Satellites Steady
 
 I built this project because I wanted to see if **Deep Reinforcement Learning** could handle the same high-speed control problems that we usually solve with classical PIDs in Electrical Engineering.
